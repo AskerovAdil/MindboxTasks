@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "S2k/OJ3AKsNBzJIQXajL3wnxfb7E8DEVJIvsRO6FfNhe8N1qUEvCC+w+BGWMoFIWmOCLm1Mcl1TVwQFVMT+WYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adil\\source\\repos\\MindboxTask\\ShapeLibrary\\ShapeLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adil\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.18\\microsoft.windowsdesktop.app.ref.6.0.18.nupkg.sha512",
+    "C:\\Users\\Adil\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.18\\microsoft.netcore.app.ref.6.0.18.nupkg.sha512",
+    "C:\\Users\\Adil\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.18\\microsoft.aspnetcore.app.ref.6.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}
