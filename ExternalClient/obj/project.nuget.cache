@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "A9wmmYyu5DrlpI23BBoSMO+1CyjNUQ6gNhA9/H157IJToQ3KpHTJlprZenI5vIhzRn4F6H0U24EOu4NyInAHgQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adil\\source\\repos\\MindboxTask\\ExternalClient\\ExternalClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adil\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.18\\microsoft.windowsdesktop.app.ref.6.0.18.nupkg.sha512",
+    "C:\\Users\\Adil\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.18\\microsoft.netcore.app.ref.6.0.18.nupkg.sha512",
+    "C:\\Users\\Adil\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.18\\microsoft.aspnetcore.app.ref.6.0.18.nupkg.sha512",
+    "C:\\Users\\Adil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.18\\microsoft.netcore.app.host.win-x64.6.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}
